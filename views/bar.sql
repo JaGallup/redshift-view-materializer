@@ -1,4 +1,4 @@
 select
-    [last_comma_first]
+    [foo]
 from
     customers;
