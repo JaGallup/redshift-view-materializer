@@ -1,5 +1,5 @@
-import json;
-from sqlalchemy import *;
+import json
+from sqlalchemy import *
 
 engine = create_engine('CONNECTION STRING')
 connection = engine.connect()
